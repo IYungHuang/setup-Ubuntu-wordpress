@@ -57,3 +57,10 @@ net2ftp/phpMyAdmin/mysql/wordpress
 **************************************************************  
 **測試版本，持續修正。              mailto:bioideastw@gmail.com
 **************************************************************
+搭配所需的net2ftp版本，建議是1.3版。
+搭配所需的phpmyadmin版本，建議是4.9.7版 // phpMyAdmin-4.9.7-all-languages
+搭配所需的wordpress版本，建議是5.8.1版 // wordpress-5.8.1-zh_TW
+若要調整為其他版本，則需要再做內部腳本調整；如有問題亦歡迎來信~
+
+mysql的指令部分，亦可重新撰寫用 heredocument 方式做處理，歡迎自行修改，再進一步自動化!!
+heredocument 參考文件 https://officeguide.cc/bash-tutorial-here-document-string/
