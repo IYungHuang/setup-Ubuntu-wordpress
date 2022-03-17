@@ -38,7 +38,7 @@ net2ftp/phpMyAdmin/mysql/wordpress
   setupbasic.sh
   
   (2)如果你的使用者名稱不是Oowner，則你需要依順序執行以下兩程序
-  change_username_or_adduser.sh   setbupasic.sh   
+  change_username_or_adduser.sh   setupbasic.sh   
   
   (3)假如你要安裝net2fftp，請執行以下程序
   setup_n2ftp.sh
