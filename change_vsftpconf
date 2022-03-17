@@ -1,0 +1,4 @@
+user_config_dir=/var/ftp
+chroot_local_user=YES
+allow_writeable_chroot=YES
+write_enable=YES
